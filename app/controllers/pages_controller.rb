@@ -11,4 +11,7 @@ class PagesController < ApplicationController
   def communication
   end
 
+  def raise
+  end
+
 end
