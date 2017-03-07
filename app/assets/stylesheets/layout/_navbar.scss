@@ -28,7 +28,11 @@
   display: flex;
   align-items: center;
   width: 20%;
-  color: #404895;
+  a {
+   color: #404895;
+   margin-right: 20px;
+  }
+
 }
 
 
