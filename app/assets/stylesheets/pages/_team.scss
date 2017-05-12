@@ -61,14 +61,17 @@
 .pic1 {
   color: white;
   text-align: center;
-  height: 653px;
-  /* if you have a 70px navbar => height: calc(100vh - 70px); */
+  height: 60vh;
   background-size: cover !important;
   background-repeat: no-repeat;
   background-position: center;
+  background-position: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
+  img {
+    width: 80%;
+  }
 }
 
 .pic2 {
