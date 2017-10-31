@@ -14,4 +14,7 @@ class PagesController < ApplicationController
   def raise
   end
 
+  def formulaire
+  end
+
 end
